@@ -1,0 +1,13 @@
+_remiel/
+_zzz/
+output/
+slice_jane.py
+pet.cpp
+
+jane_frames/_preview*.png
+
+*.log
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
